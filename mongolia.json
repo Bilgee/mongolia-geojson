@@ -3380,7 +3380,7 @@
         },
         {
             "type": "Feature",
-            "properties": { "prefecture": "Zavkhan" },
+            "properties": {"prefecture": "Zavkhan" },
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
